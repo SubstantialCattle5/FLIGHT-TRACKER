@@ -1,0 +1,28 @@
+ 
+                Id : 049107114a5800004ca3b055_0
+                From : Mumbai
+                To : New Delhi
+                Price : 2492
+                Seats Available : 1
+                Airline : ['SG']
+                Flight Departure Date : 2022-02-09
+                
+                 
+                Id : 049118c74a890000663b04cd_0
+                From : Mumbai
+                To : Bengaluru
+                Price : 2162
+                Seats Available : 3
+                Airline : ['SG']
+                Flight Departure Date : 2022-03-30
+                
+                 
+                Id : 0491207c4a85000029335bfc_0
+                From : Mumbai
+                To : Goa
+                Price : 2042
+                Seats Available : 3
+                Airline : ['SG']
+                Flight Departure Date : 2022-03-26
+                
+                
